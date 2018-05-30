@@ -1,6 +1,6 @@
 package javabasics;
-	public class Printing
-	{
+
+public class Printing {
 	public static void main( String[] args )
 	{
 	for ( int i = 1; i <= 10; i++ )
@@ -12,7 +12,6 @@ package javabasics;
 	 } // end outer for
 	 } // end main
 	 } // end class Printing
-
 
 
 
